@@ -1,3 +1,8 @@
+## 목적
+
+    Onpremise 의 라우터와 DX의 라우터 간의 BGP 연결을 모방하여 연결 관계를 이해한다.
+    또한 가용성 확보를 위한 BFD를 실습을 통해 이해한다.
+
 #### 이해를 위한 일반 구성
 
 ![Image](https://github.com/user-attachments/assets/ed35e318-fd1e-444a-b318-2ef98039fee4)
